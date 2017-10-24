@@ -1,3 +1,7 @@
+#Seudocódigo
+
+                          Comparación
+
 Escribe una función llamada areArraysSame que tome dos arrays como argumentos. Debe devolver verdadero si los dos arrays son iguales (es decir, tienen los mismos números, en el mismo orden) y false si son diferentes.
 
 1. Crear una funcion que reciba 2 arreglos como parametro
@@ -9,3 +13,5 @@ Escribe una función llamada areArraysSame que tome dos arrays como argumentos. 
   3.2. Si no son iguales sigue comparando uno a uno
 4. Regresar un true
 5. Fin :)
+
+![Esta es la imagen de readme](readme.png)
